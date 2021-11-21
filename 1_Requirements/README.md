@@ -44,8 +44,15 @@ In this game, the user will be asked to make choice and according to the choice 
 ### Why
 - This project uses simple function it is very compact to work.
 ### How
-- By implementing mutilevel program it can be achived .
+- By implementing mutilevel program it can be achived.
 
+## Detail requirements
+### High Level Requirements:
+ - This project can be implemented by using c language in both windows and linux os.   
+ - This project requires a random number generator function.                           
+### Low level Requirements:
+ - The Random number has to generate the numbers with in the specified range of number.
+  - The comparasion of the character from the player input and the computer generated has to be taken care.
 
 
 
