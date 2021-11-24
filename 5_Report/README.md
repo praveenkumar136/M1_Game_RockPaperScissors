@@ -96,7 +96,8 @@ In this game, the user will be asked to make choice and according to the choice 
 
   - The comparasion of the character from the player input and the computer generated has to be taken care.
 
-
+## Design
+This folder contains both behavior and stucture diagrams related to the mini project.
 
 
 
