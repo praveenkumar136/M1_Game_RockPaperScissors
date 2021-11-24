@@ -99,6 +99,20 @@ In this game, the user will be asked to make choice and according to the choice 
 ## Design
 This folder contains both behavior and stucture diagrams related to the mini project.
 
+```sh
+inc- Includes all header files
+
+```
+```sh
+src- Source Files
+
+```
+```sh
+test- All source code and data for testing purposes
+```
+```sh
+main.c - main code
+```
 
 
 
